@@ -27,8 +27,8 @@ rm -rf mycrontab
 chkconfig crond on
 service crond restart
 
-#
-步骤：
+#步骤：
+
 1.python check.py
 
 2.进入src文件夹，解压对应的包，执行：python setup.py install or easy_install xxx
@@ -45,4 +45,5 @@ Traceback (most recent call last):
   File "/root/secon/lib/secon_mysql_lib.py", line 4, in <module>
     import sys, MySQLdb
 ImportError: No module named MySQLdb
+
 解决方法：yum install MySQL-python
