@@ -30,8 +30,11 @@ service crond restart
 #
 步骤：
 1.python check.py
+
 2.进入src文件夹，解压对应的包，执行：python setup.py install or easy_install xxx
+
 3.报错：
+
 Traceback (most recent call last):
   File "main_dns.py", line 5, in <module>
     import handler_cache as mcache
