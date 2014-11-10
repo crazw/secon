@@ -1,7 +1,5 @@
 网站安全监控平台 2.0版
 
-#gearmand MySQL-python
-
 yum -y install net-snmp net-snmp-devel net-snmp-utils
 
 yum -y install dos2unix ntpdate 
