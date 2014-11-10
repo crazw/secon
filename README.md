@@ -15,7 +15,6 @@ easy_install greenlet
 easy_install gevent
 
 安装
-#=========================================
 dos2unix /usr/local/mntrwork_v22/bin/*.sh
 chmod 744 /usr/local/mntrwork_v22/bin/*.sh
 
