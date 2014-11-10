@@ -1,4 +1,4 @@
-网站安全监控平台 2.0版
+#网站安全监控平台 2.0版
 
 yum -y install net-snmp net-snmp-devel net-snmp-utils
 
